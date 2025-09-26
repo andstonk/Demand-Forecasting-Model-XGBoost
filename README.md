@@ -29,8 +29,11 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost statsmodels
 
 📂 Project Structure
 ├── DemandForecastingModel-20250713.ipynb   # Main notebook
+
 ├── data/                                   # (optional) Place your input datasets here
+
 ├── results/                                # Forecast outputs and visualizations
+
 └── README.md                               # Documentation
 
 🚀 Usage
